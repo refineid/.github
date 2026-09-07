@@ -1,8 +1,8 @@
-# ReFineID
+# RefineID
 
 Open-source software for electronic identification with Finnish FINEID cards.
 
-ReFineID provides native software for using Finnish electronic ID cards with modern operating systems and applications.
+RefineID provides native software for using Finnish electronic ID cards with modern operating systems and applications.
 
 ## Platforms
 
