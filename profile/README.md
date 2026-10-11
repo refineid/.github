@@ -17,7 +17,7 @@ The platform implementations share a common goal: making FINEID cards usable wit
 
 ## What it supports
 
-ReFineID is built around standard smart-card interfaces and the capabilities of FINEID cards, including:
+RefineID is built around standard smart-card interfaces and the capabilities of FINEID cards, including:
 
 - Authentication
 - Electronic signatures
